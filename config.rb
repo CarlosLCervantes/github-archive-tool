@@ -1,0 +1,3 @@
+CONFIG = {
+	:DEFAULT_RECORD_COUNT => 27
+}
